@@ -11,6 +11,10 @@ Feedback Collector is a React + Vite web app that lets users submit, view, filte
 - Filter by Date - Today, Last 7 days, Last 30 days, or All time
 - Delete with Confirmation - Modal dialog to prevent accidental deletions
 - Persistent Storage - Data saves across sessions
+  <img width="1053" height="507" alt="image" src="https://github.com/user-attachments/assets/c9cca5dc-e9a2-41bf-8841-de6fd2d687d2" />
+  <img width="1020" height="334" alt="image" src="https://github.com/user-attachments/assets/e01882fc-80b8-48bb-98b3-8d300b4dd356" />
+
+
 
 # Architecture & Best Practices
   # File Structure (Organized within single component):
