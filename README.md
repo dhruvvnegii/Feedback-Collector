@@ -9,9 +9,8 @@ Filter by Date - Today, Last 7 days, Last 30 days, or All time
 Delete with Confirmation - Modal dialog to prevent accidental deletions
 Persistent Storage - Data saves across sessions
 
-🏗️ Architecture & Best Practices
-File Structure (Organized within single component):
-
+# Architecture & Best Practices
+  # File Structure (Organized within single component):
 Services Layer - FeedbackService handles all data operations
 Utils Layer - Helper functions (formatDate, isValidEmail, filterFeedback)
 Components - Modular, reusable components (FeedbackForm, FeedbackList, FeedbackItem, ModalComponent)
